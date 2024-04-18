@@ -1,7 +1,7 @@
 # avionic-anhanga-rocket
 Hardware Boards used for avionics of the "Anhangá" rocket
 
-Schematic V1.0
+Actual Schematic V1.0 using Arduino Pro Mini
 ![Screenshot from 2024-04-18 23-24-04](https://github.com/lukas-sr/avionic-anhanga-rocket/assets/23146269/d46db4b3-5a5d-44b6-8cc5-5eb42a935cf6)
 
 Layers View of Schematic V1.0 
